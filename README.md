@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pallavi Y S</h1>
-<h3 align="center">Information Science Engineering Graduate | Java Full Stack Developer | Software Developer | Cybersecurity Enthusiast</h3>
+<h3 align="center">Information Science Engineering Graduate | Java Full Stack Developer | Software Developer </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
